@@ -42,6 +42,9 @@ Includes basic error checking and input validation.
 
 Overall, this project serves as a basic but practical implementation of file manipulation in C++, ideal for educational purposes or small utility applications.
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/0bc16d64-5c47-4d3d-8e03-f7b1dbb1a7dd)
+
 
 
 
